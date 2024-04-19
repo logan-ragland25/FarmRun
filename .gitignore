@@ -72,3 +72,5 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
 /[Ww]indows-[Mm]ac-[Ll]inux [Bb]uilds
+
+/[Ww]ebGL [Bb]uilds
